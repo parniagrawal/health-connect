@@ -1,0 +1,8 @@
+{
+  "name": "HealthConnect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "28b54461"
+}
